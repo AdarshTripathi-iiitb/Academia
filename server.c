@@ -1,7 +1,7 @@
 /*
-Author: Vicky Panchal
-Roll No: MT2023098
-Date: 04/10/2023
+Author: 	Adarsh Tripathi
+Roll No.: 	MT2023110
+Date: 		04/10/2023
 */
 
 #include <stdio.h>
